@@ -1,65 +1,54 @@
 <div align="center">
 
-# Hi, I'm Marouane Amhita 👋
+# Marouane Amhita
 
-**AI Engineer · Building Production-Grade Voice AI for Moroccan Darija**
+**AI Engineer × Full-Stack Developer**
 
-[![Email](https://img.shields.io/badge/Email-amhitasao%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amhitasao@gmail.com)
-![Location](https://img.shields.io/badge/📍-Casablanca%2C%20Morocco-2ea44f?style=flat)
-![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-brightgreen?style=flat)
+*Building production-grade voice AI for Moroccan Darija*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amhita-marouane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amhitasao@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+### 🤖 What I'm building
 
-Computer Engineer specializing in **Machine Learning** and **Full-Stack Development**. Currently spearheading a production-grade **Moroccan Darija conversational voice AI** system — end-to-end, from dataset construction to deployment.
-
-I design, train, and ship intelligent systems. Real pipelines. Real data. Real impact.
+Currently at **FINASHORE** — architecting a full conversational voice AI system for **Moroccan Darija**. End-to-end: custom datasets, fine-tuned TTS/ASR (XTTS v2, Spark-TTS, Whisper), and LLM-powered dialogue. Low-resource language, hard problem, real users.
 
 ---
 
-## 🔬 What I'm Building Now
+### 🛠️ Stack
 
-```text
-🎙️  Moroccan Darija Voice AI — TTS/ASR with XTTS v2, Spark-TTS & Whisper
-📊  Large-scale custom speech dataset factory for Darija
-🤖  LLM fine-tuning & RAG pipelines for conversational accuracy
-```
+**AI / ML**
+`PyTorch` `Hugging Face` `Whisper` `XTTS v2` `Spark-TTS` `RAG` `Vector DBs` `Claude/OpenAI APIs` `Unsloth`
 
----
+**Full-Stack**
+`Next.js` `Angular` `Spring Boot` `NestJS` `Laravel` `Flutter` `TypeScript`
 
-## 🛠️ Tech Stack
-
-| Domain | Technologies |
-|--------|-------------|
-| **AI & ML** | Python · PyTorch · Hugging Face · Whisper · XTTS v2 · Spark-TTS · Unsloth |
-| **LLMs** | Claude/OpenAI APIs · RAG · Vector Databases |
-| **Backend** | Java/Spring Boot · Node.js/NestJS · PHP/Laravel · Microservices |
-| **Frontend** | Next.js · Angular · TypeScript · Flutter |
-| **DevOps & Cloud** | Docker · GitHub Actions · AWS EC2 · OCI · PostgreSQL · Firebase |
+**Cloud & DevOps**
+`Docker` `AWS EC2` `OCI` `GitHub Actions (CI/CD)` `PostgreSQL` `Firebase`
 
 ---
 
-## 📌 Featured Work
+### 📌 Featured Work
 
 | Project | What it does |
 |---------|-------------|
-| [🎙️ pipecat-darija](https://github.com/Amhitox/pipecat-darija) | Production conversational voice AI for Moroccan Darija |
-| [🤖 TTS-STT-bot](https://github.com/Amhitox/TTS-STT-bot) | Real-time voice assistant with TTS & STT pipeline |
-| [📝 qcm_generator](https://github.com/Amhitox/qcm_generator) | AI-powered quiz generator using LLMs |
-| [🗄️ scraper](https://github.com/Amhitox/scraper) | Custom speech/NLP dataset pipeline |
-| [🔬 models](https://github.com/Amhitox/models) | ML model experiments — fine-tuning & benchmarking |
+| [`pipecat-darija`](https://github.com/Amhitox/pipecat-darija) | Production conversational voice AI for Moroccan Darija — TTS/ASR with XTTS v2, Spark-TTS & Whisper |
+| [`TTS-STT-bot`](https://github.com/Amhitox/TTS-STT-bot) | Real-time voice assistant integrating TTS & STT with live AI services |
+| [`qcm_generator`](https://github.com/Amhitox/qcm_generator) | AI-powered quiz generator with automated question creation |
+| [`scraper`](https://github.com/Amhitox/scraper) | Custom data pipeline for building NLP/speech training datasets |
 
 ---
 
-## 📊 Stats
+### 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amhitox&show_icons=true&theme=dark&hide_border=true&count_private=true)
-&nbsp;
+![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amhitox&show_icons=true&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amhitox&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -68,8 +57,6 @@ I design, train, and ship intelligent systems. Real pipelines. Real data. Real i
 
 <div align="center">
 
-**Building AI that speaks Moroccan — one model at a time.**
-
-*Open to AI/ML roles | Available for full-time positions*
+**Open to AI/ML and Full-Stack roles** &nbsp;·&nbsp; Casablanca, Morocco &nbsp;·&nbsp; Available June 2026
 
 </div>
