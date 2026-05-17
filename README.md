@@ -1,83 +1,89 @@
 <div align="center">
 
-# Hey, I'm Marouane 👋
+# Amhita Marouane
+### AI Engineer · Full-Stack Developer
 
-**AI Engineer & Full-Stack Developer — Casablanca, Morocco 🇲🇦**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amhita-marouane)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amhitox)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amhitasao@gmail.com)
 
-*Building production-grade voice AI systems & scalable web applications*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amhita%20Marouane-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amhita-marouane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amhita.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://amhita.vercel.app)
-[![Email](https://img.shields.io/badge/Email-amhitasao%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amhitasao@gmail.com)
+📍 Casablanca, Morocco &nbsp;·&nbsp; Open to **AI/ML & Full-Stack roles**
 
 </div>
 
 ---
 
-## 🔬 What I'm building
+## 🎙️ Currently Building
 
-Currently spearheading a **production-grade Moroccan Darija conversational voice AI** at [FINASHORE](https://finashore.com) — an end-to-end TTS/ASR pipeline that speaks the dialect of 40 million people. I benchmark state-of-the-art speech models (XTTS v2, Spark-TTS, Whisper), fine-tune LLMs for contextual Darija understanding, and build the dataset infrastructure from scratch.
-
-On the engineering side, I build scalable full-stack systems — microservices on AWS, real-time backends with NestJS/Firebase, and polished frontends with Next.js & Angular.
-
----
-
-## 🛠️ Tech Stack
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLMs%20%26%20RAG-1C1C1C?style=flat&logo=anthropic&logoColor=white)
-
-**Full-Stack Development**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Moroccan Darija Conversational Voice AI** @ FINASHORE  
+End-to-end production pipeline — ASR · TTS · LLM — purpose-built for Darija, one of the most underrepresented languages in AI.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 AI / ML
 
-| Project | Description | Stack |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Speech:** XTTS v2 · Spark-TTS · Whisper · Unsloth  
+**LLMs:** Claude API · OpenAI API · RAG · Vector Databases  
+**Frameworks:** PyTorch · Scikit-learn · Pandas
+
+---
+
+## 🔧 Full-Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Back-End:** Spring Boot · NestJS · Laravel · Microservices  
+**Front-End:** Next.js · Angular · TypeScript  
+**Mobile:** Flutter
+
+---
+
+## ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+Docker · GitHub Actions CI/CD · AWS EC2 · Oracle Cloud · PostgreSQL · Firebase
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it does | Stack |
 |---------|-------------|-------|
-| [**pipecat-darija**](https://github.com/Amhitox/pipecat-darija) | Production-grade Moroccan Darija conversational voice AI — TTS/ASR pipeline with XTTS v2, Spark-TTS & Whisper | Python · Speech AI · LLMs |
-| [**TTS-STT-bot**](https://github.com/Amhitox/TTS-STT-bot) | Real-time voice assistant integrating TTS & STT models with AI service pipeline | Python · Speech AI |
-| [**models**](https://github.com/Amhitox/models) | Fine-tuning & benchmarking speech/NLP architectures with PyTorch & Hugging Face | PyTorch · HuggingFace |
-| [**scraper**](https://github.com/Amhitox/scraper) | Data scraping pipeline for building custom NLP and speech datasets | Python · NLP |
-| [**qcm_generator**](https://github.com/Amhitox/qcm_generator) | AI-powered quiz generator with automated NLP-based question creation | Python · NLP |
-| [**car**](https://github.com/Amhitox/car) | Full-Stack car rental platform — dynamic search, availability validation & secure reservations | Laravel · PHP · Tailwind |
+| [pipecat-darija](https://github.com/Amhitox/pipecat-darija) | Production Moroccan Darija voice AI | Python · Whisper · XTTS v2 · LLMs |
+| [TTS-STT-bot](https://github.com/Amhitox/TTS-STT-bot) | Real-time voice assistant | Python · Flutter |
+| [models](https://github.com/Amhitox/models) | ML fine-tuning & benchmarking | PyTorch · Hugging Face |
+| [scraper](https://github.com/Amhitox/scraper) | NLP/speech dataset pipeline | Python · Selenium |
+| [qcm_generator](https://github.com/Amhitox/qcm_generator) | AI-powered quiz generator | NLP · Python |
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amhitox&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amhitox&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
+- **Oracle Java SE 17** — 2025
+- **Oracle Cloud Infrastructure 2024 Foundations Associate** — 2025  
+- **IBM Introduction to Containers** — 2025
 
 ---
 
 <div align="center">
 
-*Open to AI/ML Engineer and Full-Stack Developer roles — let's build something impactful.*
+![Profile Views](https://komarev.com/ghpvc/?username=Amhitox&color=0e75b6&style=flat-square)
+
+*Building the future of Arabic speech AI, one model at a time.*
 
 </div>
